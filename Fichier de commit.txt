@@ -1,1 +1,2 @@
 Ceci est un fichier pour apprendre à faire un commit avec Github!
+Je rajoute des trucs pour comprendre le versionnage !
